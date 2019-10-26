@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563939799 source:c:\users\madata\desktop\c++-tutorials\prac 1\main.cpp
+	<iostream>
+
+1563946360 source:c:\users\madata\desktop\c++-tutorials\prac 1\task15.cpp
+	<iostream>
+	<cstdlib>
+
