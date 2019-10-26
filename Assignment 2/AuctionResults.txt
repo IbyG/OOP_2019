@@ -1,0 +1,91 @@
+	 5569	 b	 $183	 33
+	 5407	 b	 $116	 29
+	 3888	 b	 $113	 31
+	 5575	 b	 $195	 13
+	 6863	 b	 $70	 28
+	 9026	 b	 $68	 23
+	 1255	 b	 $55	 9
+	 1037	 b	 $134	 52
+	 1005	 b	 $93	 7
+	 5014	 b	 $114	 27
+George	 2577	 s	 $146	 46
+Jack	 5213	 s	 $183	 44
+Alfie	 3804	 s	 $181	 18
+Isla	 7919	 s	 $63	 51
+Freddie	 8054	 s	 $187	 7
+Leo	 8349	 s	 $129	 5
+Emily	 4295	 s	 $184	 27
+Ava	 6596	 s	 $197	 10
+Splinter	 7598	 s	 $86	 13
+Donatello	 1535	 s	 $148	 7
+
+Matched bids:
+George	 2577	 s	 $146	 46 <======>	 5569	 b	 $183	 33	 Becomes George	 2577	 s	 $146	 13 <======>	 5569	 b	 $183	 0
+George	 2577	 s	 $146	 13 <======>	 5575	 b	 $195	 13	 Becomes George	 2577	 s	 $146	 0 <======>	 5575	 b	 $195	 0
+Isla	 7919	 s	 $63	 51 <======>	 5407	 b	 $116	 29	 Becomes Isla	 7919	 s	 $63	 22 <======>	 5407	 b	 $116	 0
+Isla	 7919	 s	 $63	 22 <======>	 3888	 b	 $113	 31	 Becomes Isla	 7919	 s	 $63	 0 <======>	 3888	 b	 $113	 9
+Leo	 8349	 s	 $129	 5 <======>	 1037	 b	 $134	 52	 Becomes Leo	 8349	 s	 $129	 0 <======>	 1037	 b	 $134	 47
+Splinter	 7598	 s	 $86	 13 <======>	 3888	 b	 $113	 9	 Becomes Splinter	 7598	 s	 $86	 4 <======>	 3888	 b	 $113	 0
+Splinter	 7598	 s	 $86	 4 <======>	 1037	 b	 $134	 47	 Becomes Splinter	 7598	 s	 $86	 0 <======>	 1037	 b	 $134	 43
+
+Unmatched Buy Bids
+	 6863	 b	 $70	 28
+	 9026	 b	 $68	 23
+	 1255	 b	 $55	 9
+	 1037	 b	 $134	 43
+	 1005	 b	 $93	 7
+	 5014	 b	 $114	 27
+
+Unmatched Sell Bids
+Jack	 5213	 s	 $183	 44
+Alfie	 3804	 s	 $181	 18
+Freddie	 8054	 s	 $187	 7
+Emily	 4295	 s	 $184	 27
+Ava	 6596	 s	 $197	 10
+Donatello	 1535	 s	 $148	 7
+Ibrahim	 5451	 b	 $53	 37
+Dean	 5198	 b	 $156	 30
+Dongmo	 4653	 b	 $188	 35
+Marcus	 5839	 b	 $193	 25
+Stephen	 8944	 b	 $181	 52
+Ben	 3276	 b	 $93	 41
+Mark	 4212	 b	 $89	 17
+Ken	 4585	 b	 $115	 37
+Johnny	 6784	 b	 $57	 24
+Josh	 5252	 b	 $64	 49
+George	 5857	 s	 $152	 44
+Jack	 6266	 s	 $107	 20
+Alfie	 7510	 s	 $66	 51
+Isla	 2212	 s	 $157	 25
+Freddie	 4818	 s	 $117	 53
+Leo	 8019	 s	 $62	 14
+Emily	 4501	 s	 $58	 25
+Ava	 5803	 s	 $138	 6
+Splinter	 9735	 s	 $148	 23
+Donatello	 3691	 s	 $92	 22
+
+Matched bids:
+George	 5857	 s	 $152	 44 <======>Dean	 5198	 b	 $156	 30	 Becomes George	 5857	 s	 $152	 14 <======>Dean	 5198	 b	 $156	 0
+George	 5857	 s	 $152	 14 <======>Dongmo	 4653	 b	 $188	 35	 Becomes George	 5857	 s	 $152	 0 <======>Dongmo	 4653	 b	 $188	 21
+Jack	 6266	 s	 $107	 20 <======>Dongmo	 4653	 b	 $188	 21	 Becomes Jack	 6266	 s	 $107	 0 <======>Dongmo	 4653	 b	 $188	 1
+Alfie	 7510	 s	 $66	 51 <======>Dongmo	 4653	 b	 $188	 1	 Becomes Alfie	 7510	 s	 $66	 50 <======>Dongmo	 4653	 b	 $188	 0
+Alfie	 7510	 s	 $66	 50 <======>Marcus	 5839	 b	 $193	 25	 Becomes Alfie	 7510	 s	 $66	 25 <======>Marcus	 5839	 b	 $193	 0
+Alfie	 7510	 s	 $66	 25 <======>Stephen	 8944	 b	 $181	 52	 Becomes Alfie	 7510	 s	 $66	 0 <======>Stephen	 8944	 b	 $181	 27
+Isla	 2212	 s	 $157	 25 <======>Stephen	 8944	 b	 $181	 27	 Becomes Isla	 2212	 s	 $157	 0 <======>Stephen	 8944	 b	 $181	 2
+Freddie	 4818	 s	 $117	 53 <======>Stephen	 8944	 b	 $181	 2	 Becomes Freddie	 4818	 s	 $117	 51 <======>Stephen	 8944	 b	 $181	 0
+Leo	 8019	 s	 $62	 14 <======>Ben	 3276	 b	 $93	 41	 Becomes Leo	 8019	 s	 $62	 0 <======>Ben	 3276	 b	 $93	 27
+Emily	 4501	 s	 $58	 25 <======>Ben	 3276	 b	 $93	 27	 Becomes Emily	 4501	 s	 $58	 0 <======>Ben	 3276	 b	 $93	 2
+Donatello	 3691	 s	 $92	 22 <======>Ben	 3276	 b	 $93	 2	 Becomes Donatello	 3691	 s	 $92	 20 <======>Ben	 3276	 b	 $93	 0
+Donatello	 3691	 s	 $92	 20 <======>Ken	 4585	 b	 $115	 37	 Becomes Donatello	 3691	 s	 $92	 0 <======>Ken	 4585	 b	 $115	 17
+
+Unmatched Buy Bids
+Ibrahim	 5451	 b	 $53	 37
+Mark	 4212	 b	 $89	 17
+Ken	 4585	 b	 $115	 17
+Johnny	 6784	 b	 $57	 24
+Josh	 5252	 b	 $64	 49
+
+Unmatched Sell Bids
+Freddie	 4818	 s	 $117	 51
+Ava	 5803	 s	 $138	 6
+Splinter	 9735	 s	 $148	 23
